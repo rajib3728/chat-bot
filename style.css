@@ -1,0 +1,62 @@
+.st1
+{
+    color:yellow;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-top: 0px;
+    background-color: midnightblue;
+    width: 100%;
+    font-size: 100px;
+    font-family: 'Lucida Sans';
+    margin-bottom: 0px;
+}
+#st2
+{
+    margin-top: 40px;
+    border: 2px;
+    padding-left: 10px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-right: 10px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 100%;
+    margin-left: 600px;
+    margin-right: 600px;
+    background-color: yellow;
+}
+#st3
+{
+    margin-top: 0px;
+    color:darkmagenta;
+    background-color: white;
+    padding-left: 10px;
+    padding-right:10px;
+    padding-top:4px;
+    padding-bottom:4px;
+    border-radius: 25px;
+    border: 2px;
+    border-style: solid;
+    border-color: darkmagenta;
+}
+#st3:hover
+{
+    color:white;
+    background-color: darkmagenta;
+}
+#st4
+{
+    padding-top: 10px;
+    width: 100%;
+    background-color: midnightblue;
+    margin-top: 0px;
+    padding-bottom: 50px;
+}  
+#st5
+{
+    background-color: midnightblue;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+}
