@@ -111,7 +111,7 @@ function fun3()
     else if(a=="who is rajib"|| a=="rajib" ||a=="tell about rajib" || a=="tell me about rajib")
     {
         var m= document.getElementById("st8");
-   m.innerHTML="BOt:Rajib paul is a boy who prefer to invent new thing" ;
+   m.innerHTML="Bot:Rajib paul is a boy who prefer to invent new thing" ;
     }
     else if(a=="facebook" ||a=="open facebook" ||a=="open facebook website" || a=="open facebook app")
     {
